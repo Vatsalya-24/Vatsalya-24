@@ -1,25 +1,82 @@
+[![MasterHead]
 <h1 align="center">Hi 👋, I'm Vatsalya Sharma</h1>
-<h3 align="center">Machine learning enthusiast, Blockchain Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
+
+<img align="right" alt="Coding" width="400" height="250" src="https://media.giphy.com/media/MFabj1E9mgUsqwVWHu/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vatsalya-24&label=Profile%20views&color=0e75b6&style=flat" alt="vatsalya-24" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vatsalya-24" alt="vatsalya-24" /></a> </p>
-
+- 📖 Pursuing my Bachelor's in Artificial Intelligence (https://ghrce.raisoni.net/)
+- 🎓 Creating Bugs Since 2020
+- 🧑🏻‍💻 Machine learning enthusiast, Blockchain Engineer
 - 🌱 I’m currently learning **TypeScript**
-
-- 📫 How to reach me **Vatsalyasharma24@gamil.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vatsalya-sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vatsalya-sharma" height="30" width="40" /></a>
+- 💡 Always open to collaborating on projects and innovative ideas.
+</br>
+</br>
+</br>
+<div>
+My Name is Vatsalya, learnig Blockchain Technology and Machine Learning , feel free to connect with me here:
+</br>
+</br>
+<p align="center">
+	<a href="https://www.linkedin.com/in/vatsalya-sharma-29819822a/">
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+	</a>
+	<a href="https://instagram.com/__vatsalya__sharma?igshid=YmMyMTA2M2Y=">
+		<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+	</a>
+	<a href="https://medium.com/@svatsalya604">
+		<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+	</a>
+        <a href="https://github.com/vatsalya-24">
+		<img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
+	</a>
+        <a href="mailto:vatsalyasharma24@gmail.com">
+		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+	</a>
 </p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
+---
+## ⚡ Tech Stack
+
+### 🚀 Languages
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+
+## 🧩 Libraries & Framework
+
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+
+### 🧑🏻‍💻 Tools & Platform
+
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![Remix ide](https://img.shields.io/badge/Remix%20IDE-464647?style=for-the-badge&logo=remix&logoColor=white)
+
+### 💻 Workspace
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## 📈 Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vatsalya-24&theme=radical&show_icons=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vatsalya-24&hide_border=true&theme=radical" />
+<
+
+## 🔝 Most used languages
+    
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsalya-24&show_icons=true&locale=en&layout=compact" alt="vatsalya-24" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vatsalya-24&show_icons=true&locale=en" alt="vatsalya-24" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vatsalya-24&" alt="vatsalya-24" /></p>
+
