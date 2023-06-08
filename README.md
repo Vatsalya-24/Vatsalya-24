@@ -63,6 +63,7 @@ My Name is Vatsalya, learnig Blockchain Technology and Machine Learning , feel f
 ![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![Remix ide](https://img.shields.io/badge/Remix%20IDE-464647?style=for-the-badge&logo=remix&logoColor=white)
+![jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### 💻 Workspace
 
