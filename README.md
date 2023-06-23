@@ -53,7 +53,8 @@ My Name is Vatsalya, learnig Blockchain Technology and Machine Learning , feel f
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Truffle](https://img.shields.io/badge/Truffle-<VERSION>-brightgreen?style=for-the-badge&logo=truffle&logoColor=white)
+![Truffle](https://img.shields.io/badge/Truffle-5.4.9-brightgreen?style=for-the-badge&logo=truffle&logoColor=white)
+
 
 
 ### 🧑🏻‍💻 Tools & Platform
