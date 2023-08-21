@@ -9,7 +9,7 @@
 - 📖 Pursuing my Bachelor's in Artificial Intelligence (https://ghrce.raisoni.net/)
 - 🎓 Creating Bugs Since 2020
 - 🧑🏻‍💻 Machine learning enthusiast, Blockchain Engineer
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **React.js**
 - 💡 Always open to collaborating on projects and innovative ideas.
 </br>
 </br>
