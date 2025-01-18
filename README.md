@@ -8,14 +8,14 @@
 
 - 📖 Pursuing my Bachelor's in Artificial Intelligence (https://ghrce.raisoni.net/)
 - 🎓 Creating Bugs Since 2020
-- 🧑🏻‍💻 Machine learning enthusiast, Blockchain Engineer
-- 🌱 I’m currently learning **React.js**
+- 🧑🏻‍💻 Software Debeloper, AI/Ml Enthusiast
+- 🌱 I’m working with Java backend, AI/Ml 
 - 💡 Always open to collaborating on projects and innovative ideas.
 </br>
 </br>
 </br>
 <div>
-My Name is Vatsalya, learnig Blockchain Technology and Machine Learning , feel free to connect with me here:
+My Name is Vatsalya Sharma, learnig Java & its Frameworks and AI/ML , feel free to connect with me here:
 </br>
 </br>
 <p align="center">
