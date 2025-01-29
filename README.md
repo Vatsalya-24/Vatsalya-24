@@ -39,14 +39,14 @@
 ## ⚡ Tech Stack
 ### 🚀 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,solidity,rust,spring,mysql,mongodb,hibernate,opencv" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,solidity,rust,spring,mysql,mongodb,hibernate,opencv" title="Java, Python, C++, Solidity, Rust, Spring, MySQL, MongoDB, Hibernate, OpenCV" />
 </p>
 
 ---
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vatsalya-24&theme=radical&show_icons=true&count_private=true&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vatsalya-24&hide_border=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vatsalya-24&theme=radical&show_icons=true&count_private=true&hide_border=true&bg_color=1e1e2f&title_color=ffb86c&icon_color=ff79c6" width="48%" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vatsalya-24&hide_border=true&theme=radical&border_radius=10&background=1e1e2f&stroke=ff79c6&ring=ff79c6" width="48%" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);"/>
 </p>
 
 ---
@@ -67,8 +67,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vatsalya-24&theme=react-dark" width="95%" />
 </p>
 
----
-## 🎶 Now Playing
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31lbb7fszxl5eydbht5nddrwnpbi&cover_image=true&theme=default&show_offline=false&background_color=121212" />
-</p>
+
