@@ -46,17 +46,18 @@
 ## 📊 GitHub Stats
 <p align="center">
   <!-- Container for stats cards -->
-  <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px; justify-items: center;">
+  <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
     <!-- GitHub Stats Card -->
-    <div style="background: #1f1f1f; border-radius: 12px; padding: 20px; width: 100%; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1); color: #fff; text-align: center;">
+    <div style="background: #1f1f1f; border-radius: 12px; padding: 20px; width: 300px; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1); color: #fff; text-align: center;">
       <h3 style="color: #ff79c6;">GitHub Stats</h3>
       <img src="https://github-readme-stats.vercel.app/api?username=vatsalya-24&theme=dark&show_icons=true&count_private=true&hide_border=true" style="border-radius: 8px;" />
     </div>
     <!-- GitHub Streak Stats Card -->
-    <div style="background: #1f1f1f; border-radius: 12px; padding: 20px; width: 100%; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1); color: #fff; text-align: center;">
+    <div style="background: #1f1f1f; border-radius: 12px; padding: 20px; width: 300px; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1); color: #fff; text-align: center;">
       <h3 style="color: #ff79c6;">GitHub Streak</h3>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vatsalya-24&hide_border=true&theme=dark&background=1f1f1f&stroke=ff79c6&ring=ff79c6&border_radius=12" style="border-radius: 8px;" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vatsalya-24&theme=dark&background=1f1f1f&stroke=ff79c6&ring=ff79c6&border_radius=12" style="border-radius: 8px;" />
     </div>
+    
   </div>
 </p>
 
