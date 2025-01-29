@@ -39,22 +39,23 @@
 ## ⚡ Tech Stack
 ### 🚀 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,solidity,rust,spring,mysql,mongodb,hibernate,opencv" title="Java, Python, C++, Solidity, Rust, Spring, MySQL, MongoDB, Hibernate, OpenCV" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,solidity,rust,spring,mysql,mongodb,hibernate,opencv" />
 </p>
 
 ---
 ## 📊 GitHub Stats
-
 <p align="center">
-  <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
+  <!-- Container for stats cards -->
+  <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px; justify-items: center;">
     <!-- GitHub Stats Card -->
-    <div style="background-color: #2d2d2d; border-radius: 15px; padding: 25px; width: 350px; box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1); color: white; text-align: center;">
-      <h3>GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=vatsalya-24&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&bg_color=2d2d2d&title_color=ff79c6&icon_color=ff79c6" width="100%" />
-  
-    <div style="background-color: #2d2d2d; border-radius: 15px; padding: 25px; width: 350px; box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1); color: white; text-align: center;">
-      <h3>Streak Stats</h3>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vatsalya-24&hide_border=true&theme=tokyonight&border_radius=15&background=2d2d2d&stroke=ff79c6&ring=ff79c6" width="100%" />
+    <div style="background: #1f1f1f; border-radius: 12px; padding: 20px; width: 100%; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1); color: #fff; text-align: center;">
+      <h3 style="color: #ff79c6;">GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=vatsalya-24&theme=dark&show_icons=true&count_private=true&hide_border=true" style="border-radius: 8px;" />
+    </div>
+    <!-- GitHub Streak Stats Card -->
+    <div style="background: #1f1f1f; border-radius: 12px; padding: 20px; width: 100%; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1); color: #fff; text-align: center;">
+      <h3 style="color: #ff79c6;">GitHub Streak</h3>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vatsalya-24&hide_border=true&theme=dark&border_radius=12&background=1f1f1f&stroke=ff79c6&ring=ff79c6" style="border-radius: 8px;" />
     </div>
   </div>
 </p>
@@ -77,4 +78,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vatsalya-24&theme=react-dark" width="95%" />
 </p>
 
-
+---
+## 🎶 Now Playing
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31lbb7fszxl5eydbht5nddrwnpbi&cover_image=true&theme=default&show_offline=false&background_color=121212" />
+</p>
