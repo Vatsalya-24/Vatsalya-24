@@ -45,20 +45,7 @@
 ---
 ## 📊 GitHub Stats
 <p align="center">
-  <!-- Container for stats cards -->
-  <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
-    <!-- GitHub Stats Card -->
-    <div style="background: #1f1f1f; border-radius: 12px; padding: 20px; width: 300px; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1); color: #fff; text-align: center;">
-      <h3 style="color: #ff79c6;">GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=vatsalya-24&theme=dark&show_icons=true&count_private=true&hide_border=true" style="border-radius: 8px;" />
-    </div>
-    <!-- GitHub Streak Stats Card -->
-    <div style="background: #1f1f1f; border-radius: 12px; padding: 20px; width: 300px; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1); color: #fff; text-align: center;">
-      <h3 style="color: #ff79c6;">GitHub Streak</h3>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vatsalya-24&theme=dark&background=1f1f1f" />
-    </div>
-    
-  </div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vatsalya-24&theme=default" />
 </p>
 
 ---
@@ -83,4 +70,10 @@
 ## 🎶 Now Playing
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31lbb7fszxl5eydbht5nddrwnpbi&cover_image=true&theme=default&show_offline=false&background_color=121212" />
+</p>
+
+---
+## GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vatsalya-24&theme=dark&background=1f1f1f" />
 </p>
