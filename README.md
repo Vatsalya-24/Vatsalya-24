@@ -67,13 +67,3 @@
 </p>
 
 ---
-## 🎶 Now Playing
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31lbb7fszxl5eydbht5nddrwnpbi&cover_image=true&theme=default&show_offline=false&background_color=121212" />
-</p>
-
----
-## GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vatsalya-24&theme=dark&background=1f1f1f" />
-</p>
