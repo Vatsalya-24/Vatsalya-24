@@ -55,7 +55,7 @@
     <!-- GitHub Streak Stats Card -->
     <div style="background: #1f1f1f; border-radius: 12px; padding: 20px; width: 300px; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1); color: #fff; text-align: center;">
       <h3 style="color: #ff79c6;">GitHub Streak</h3>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vatsalya-24&theme=dark&background=1f1f1f" />" 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vatsalya-24&theme=dark&background=1f1f1f" />
     </div>
     
   </div>
