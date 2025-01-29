@@ -44,16 +44,17 @@
 
 ---
 ## 📊 GitHub Stats
+
 <p align="center">
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
     <!-- GitHub Stats Card -->
-    <div style="background-color: #1e1e2f; border-radius: 10px; padding: 20px; width: 48%; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
-      <img src="https://github-readme-stats.vercel.app/api?username=vatsalya-24&theme=radical&show_icons=true&count_private=true&hide_border=true&bg_color=1e1e2f&title_color=ffb86c&icon_color=ff79c6" width="100%" />
-    </div>
-    
-    <!-- GitHub Streak Stats Card -->
-    <div style="background-color: #1e1e2f; border-radius: 10px; padding: 20px; width: 48%; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vatsalya-24&hide_border=true&theme=radical&border_radius=10&background=1e1e2f&stroke=ff79c6&ring=ff79c6" width="100%" />
+    <div style="background-color: #2d2d2d; border-radius: 15px; padding: 25px; width: 350px; box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1); color: white; text-align: center;">
+      <h3>GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=vatsalya-24&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&bg_color=2d2d2d&title_color=ff79c6&icon_color=ff79c6" width="100%" />
+  
+    <div style="background-color: #2d2d2d; border-radius: 15px; padding: 25px; width: 350px; box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1); color: white; text-align: center;">
+      <h3>Streak Stats</h3>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vatsalya-24&hide_border=true&theme=tokyonight&border_radius=15&background=2d2d2d&stroke=ff79c6&ring=ff79c6" width="100%" />
     </div>
   </div>
 </p>
