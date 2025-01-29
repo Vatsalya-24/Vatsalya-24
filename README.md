@@ -1,6 +1,4 @@
-
 <h1 align="center">Hi 👋, I'm Vatsalya Sharma</h1>
-
 
 <img align="right" alt="Coding" width="400" height="250" src="https://media.giphy.com/media/MFabj1E9mgUsqwVWHu/giphy.gif">
 
@@ -8,14 +6,14 @@
 
 - 📖 Pursuing my Bachelor's in Artificial Intelligence (https://ghrce.raisoni.net/)
 - 🎓 Creating Bugs Since 2020
-- 🧑🏻‍💻 Software Debeloper, AI/Ml Enthusiast
-- 🌱 I’m working with Java backend, AI/Ml 
+- 🧑🏻‍💻 Software Developer, AI/ML Enthusiast
+- 🌱 Currently working on **Java backend development using Spring Boot, Hibernate, and RESTful APIs.**
 - 💡 Always open to collaborating on projects and innovative ideas.
 </br>
 </br>
 </br>
 <div>
-My Name is Vatsalya Sharma, learnig Java & its Frameworks and AI/ML , feel free to connect with me here:
+My Name is Vatsalya Sharma, learning Java & its Frameworks and AI/ML, feel free to connect with me here:
 </br>
 </br>
 <p align="center">
@@ -36,7 +34,6 @@ My Name is Vatsalya Sharma, learnig Java & its Frameworks and AI/ML , feel free 
 	</a>
 </p>
 </div>
-
 
 ---
 ## ⚡ Tech Stack
@@ -69,10 +66,8 @@ My Name is Vatsalya Sharma, learnig Java & its Frameworks and AI/ML , feel free 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
-![Remix ide](https://img.shields.io/badge/Remix%20IDE-464647?style=for-the-badge&logo=remix&logoColor=white)
-![jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### 💻 Workspace
 
@@ -83,11 +78,7 @@ My Name is Vatsalya Sharma, learnig Java & its Frameworks and AI/ML , feel free 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vatsalya-24&theme=radical&show_icons=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vatsalya-24&hide_border=true&theme=radical" />
-<
+</p>
 
 ## 🔝 Most used languages
-    
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsalya-24&show_icons=true&locale=en&layout=compact" alt="vatsalya-24" /></p>
-
-
-
