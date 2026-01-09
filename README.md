@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm <strong>Vatsalya Sharma</strong></h1>
-<h3 align="center">Software Developer | AI/ML Researcher | Cloud & Computer Vision Specialist</h3>
+<h3 align="center">Software Developer | AI/ML Researcher | Cloud Practitioner</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/MFabj1E9mgUsqwVWHu/giphy.gif" width="450" />
